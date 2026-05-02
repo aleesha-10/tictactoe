@@ -28,7 +28,7 @@ tictactoe/
 │── task6.cpp
 │── README.md
 
-![Tic Tac Toe](tictacto.png)
+![Tic Tac Toe](tictactoe.png)
 
 Author
 Aleesha-10 <3
