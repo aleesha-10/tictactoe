@@ -28,7 +28,7 @@ tictactoe/
 │── task6.cpp
 │── README.md
 
-<img width="402" height="486" alt="Screenshot from 2026-05-02 15-52-09" src="https://github.com/user-attachments/assets/2fd075ef-e45f-4337-93f8-93fbd33e7257" />
+<img width="402" height="486" alt="tictactoe" src="https://github.com/user-attachments/assets/872c616c-d67a-4c5f-9fee-e4e6bb19349c" />
 
 
 Author
