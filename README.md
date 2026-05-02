@@ -28,8 +28,7 @@ tictactoe/
 │── task6.cpp
 │── README.md
 
-<img width="402" height="486" alt="tictactoe" src="https://github.com/user-attachments/assets/872c616c-d67a-4c5f-9fee-e4e6bb19349c" />
-
+![Tic Tac Toe](tictacto.png)
 
 Author
 Aleesha-10 <3
